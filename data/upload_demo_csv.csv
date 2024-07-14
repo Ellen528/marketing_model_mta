@@ -1,0 +1,6 @@
+,path,total_conversions,total_conversion_value,total_null
+0,eta > iota > alpha > eta,1,0.244,3
+1,iota > iota > iota > iota,2,3.195,6
+2,alpha > iota > alpha > alpha > alpha > iota > alpha > alpha > alpha > alpha > alpha,2,6.754,6
+3,beta > eta,1,2.402,3
+4,iota > eta > theta > lambda > lambda > theta > lambda,0,0.0,2
