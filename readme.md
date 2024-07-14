@@ -11,7 +11,15 @@ This tool is based on real-life scenarios. For a detailed wiki, please check the
 - **Interactive Visualizations**: Provides bar charts to compare the effectiveness of different channels based on the selected attribution model.
 - **Downloadable Results**: Users can download the results of their analyses as CSV files.
 
-## Installation
+## Exploring the Tool
+
+There are two ways to explore the functionalities of this tool:
+
+### 1. Visit the Deployed Application
+
+For immediate access without the need for local setup, visit the deployed version of the application at [this link](https://marketingmodelmta-qgcagtaspybepuf2942jw5.streamlit.app/).
+
+### 2. Run Locally
 
 To run this application locally, you'll need to have Python installed on your machine. Follow these steps to set up and run the application:
 
