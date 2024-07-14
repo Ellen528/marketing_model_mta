@@ -2,7 +2,7 @@
 
 This repository contains a Streamlit application designed to perform Multi-Touch Attribution (MTA) analysis on marketing data. The application supports various attribution models including Linear, Position-Based, Last Touch, Time Decay, and Markov Chain models.
 
-This tool is based on real-life scenarios. For a detailed wiki, please check the following link:
+This tool is based on real-life scenarios. For a detailed wiki, please check the following link: [this link](https://plant-acorn-744.notion.site/Marketing-Channel-Attribution-Case-Review-1c56c658506d4a2aa04e1c1f177e33bc?pvs=4).
 
 ## Features
 
